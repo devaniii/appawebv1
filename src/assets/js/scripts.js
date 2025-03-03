@@ -1,0 +1,1 @@
+document.getElementById("loading-message").innerText = "Enviado!";
